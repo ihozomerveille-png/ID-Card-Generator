@@ -4,7 +4,7 @@ const people = [
     name: "Merveille Ihozo",
     role: "Software Engineer",
     department: "Engineering",
-    avatar: "https://i.pravatar.cc/150?img=1"
+    avatar: "https://i.pravatar.cc/150?img=16"
   },
   {
     id: 2,
@@ -15,10 +15,10 @@ const people = [
   },
   {
     id: 3,
-    name: "Sarah Uwase",
+    name: "Kate Andy",
     role: "UI Designer",
     department: "Design",
-    avatar: "https://i.pravatar.cc/150?img=3"
+    avatar: "https://i.pravatar.cc/150?img=44"
   }
 ]
 
